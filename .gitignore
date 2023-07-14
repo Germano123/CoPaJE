@@ -4,3 +4,4 @@ site/
 .env
 .cache/
 gource.mp4
+/node_modules
