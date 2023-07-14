@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
-site_name: CoPaJE
-site_description: Comissao Parlamentar de Jogos Eletronicos
+site_name: "CoPaJE - Conselho Parlamentar de Jogos Eletronicos"
+site_description: "CoPaJE - Conselho Parlamentar de Jogos Eletronicos. Contra-Proposta ao PL2796/2021."
 site_url: https://copaje.com/
 repo_url: https://github.com/CoPaJE/CoPaJE
 edit_uri: blob/main/
 
-site_author: All Contributors. See https://github.com/CoPaJE/CoPaJE/graphs/contributors
+site_author: "Comunidades de desenvolvedores de jogos: https://copaje.com"
 
 nav:
   - Home:
@@ -14,10 +14,12 @@ nav:
     - Proposta: PROPOSTA.md
     - Filosofia: /#filosofia
     - Objetivos: /#objetivos
-  - Proposta: PROPOSTA.md
-  - Discuta: CONTRIBUTING.md
-  - Contato: CONTRIBUTING.md
-  - Reunião: MINUTES.md
+  - Cobre: cobre.md
+  - Colabore: CONTRIBUTING.md
+  - Contra-Proposta: PROPOSTA.md
+  - Transparencia:
+    - Reuniões: MINUTES.md
+    - Historico: CHANGELOG.md
 
 theme:
   language: pt
@@ -96,20 +98,73 @@ docs_dir: . # in order to use README.md as index.md
 
 plugins:
   - same-dir
-  - git-committers:
-      repository: CoPaJE/CoPaJE
-      branch: main
+  - git-authors:
+      show_contribution: true
+      show_line_count: true
+      show_email_address: false
+      count_empty_lines: true
+      fallback_to_empty: false
+      sort_authors_by: contribution
       enabled: true
-      docs_path: ./
-      cache_dir: /tmp/cache/copajecache
+      strict: true
+  - social:
+      cards_layout: default/accent
+#  - git-committers:
+#      repository: CoPaJE/CoPaJE
+#      branch: main
+#      enabled: true
+#      docs_path: ./
+#      cache_dir: /tmp/cache/copajecache
   - git-revision-date-localized:
       locale: pt
       fallback_to_build_date: true
       timezone: America/Sao_Paulo
-      enable_creation_date: false
+      enable_creation_date: true
   - search:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify
+  - with-pdf:
+      enabled_if_env: CI
+      toc_level: 2
+      exclude_pages:
+        - 'cobre'
+        - 'README'
+        - 'CONTRIBUTING'
+        - 'MINUTES'
+        - 'CHANGELOG'
+        - ^$
+      verbose: true
+    #author: WHO
+#      copyright: MIT
+    #
+    #cover: false
+    #back_cover: true
+      cover_title: "Conselho Parlamentar de Jogos Eletronicos"
+      cover_subtitle: "Contra-Proposta Open-source, Comunitaria e Distribuida ao PL2796/2021"
+    #custom_template_path: TEMPLATES PATH
+    #
+      toc_title: Indice
+      heading_shift: false
+      ordered_chapter_level: 0
+      excludes_children:
+         - 'PROPOSTA/:__comments'
+         - 'PROPOSTA/:contexto'
+         - 'PROPOSTA/:leis-que-este-projeto-aponta'
+    #convert_iframe:
+    #    - src: IFRAME SRC
+    #      img: POSTER IMAGE URL
+    #      text: ALTERNATE TEXT
+    #    - src: ...
+      two_columns_level: 0
+    #
+    #render_js: true
+    #headless_chrome_path: headless-chromium
+    #
+    #output_path: any-place/document.pdf
+    #
+    #debug_html: true
+      show_anchors: false
+    #verbose: true
   - exclude:
       glob:
         - node_modules/*
@@ -162,9 +217,9 @@ markdown_extensions:
 
 
 extra:
-#  analytics:
-#    provider: google
-#    property: G-347541715
+  analytics:
+    provider: google
+    property: G-6V22ZVLJ57
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/CoPaJE

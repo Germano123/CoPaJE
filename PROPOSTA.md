@@ -1,3 +1,10 @@
+---
+title: "Marco Legal dos Jogos de Eletronicos"
+subtitle: "Contra-Proposta ao PL. 2796 de 2021"
+description: "Proposta de Marco Legal para a Industria de Jogos de Eletronicos"
+keywords: "Marco Legal, Jogos, Industria, PL 2796, 2021, jogos eletronicos, jogos analógicos, jogos de fantasia, fantasy sports"
+---
+
 # Contra-Proposta ao PL. 2796 de 2021
 
 !!! tip inline end "Como editar essa proposta" 
@@ -45,7 +52,7 @@ O CONGRESSO NACIONAL decreta:
 § 1º Considera-se jogo eletrônico:
 
 - I - o programa de computador que contenha elementos gráficos e audiovisuais com fins lúdicos, em que o usuário controla a ação e interaje com a interface, conforme definido na Lei nº 9.609, de 19 de fevereiro de 1998;
-- II - o dispositivo central e acessórios, para uso privado ou comercial, total ou parcialmente dedicados a executar jogos eletrônicos; e
+- II - o dispositivo central e acessórios, para uso privado, a trabalho ou comercial, total ou parcialmente dedicados a executar jogos eletrônicos; e
 - III - o software para aplicativo de celular, tablets ou similares e/ou página de internet desenvolvida com o objetivo de entretenimento.
 
 § 2º Considera-se jogo analógico:
@@ -89,9 +96,9 @@ O CONGRESSO NACIONAL decreta:
 
 - X - Agente de Cibersegurança de jogos: a pessoa física que é responsável por garantir a segurança e proteção dos sistemas, infraestrutura, dados e garantia do seguimento das boas práticas e leis vigentes relacionadas a segurança digital, como a lei nº 13.709, de 14 de agosto de 2018, para jogos eletrônicos ou jogos de fantasia.
 
-- XI - Designer de jogos: a pessoa física que é responsável por projetar a jogabilidade, as mecânicas, os sistemas do jogo, os desafios, as regras, as fases e as interações que compõem a experiência, para jogos de entretenimento. Atua em um escopo amplo, permitindo cumprir todo ou parcial, o papel informado nos incisos II, III, IV, V e VI deste artigo.
+- XI - Designer de jogos: a pessoa física que é responsável por projetar a jogabilidade, as mecânicas, os sistemas do jogo, os desafios, as regras, as fases e as interações que compõem a experiência, para jogos de entretenimento. Atua em um escopo amplo, permitindo cumprir todo ou parcial, o papel informado nos incisos II, III, IV, V, VI, VII e VIII deste artigo.
 
-- XII - Desenvolvedor de jogos: a pessoa física que é responsável por criar e desenvolver jogos de entretenimento. Atua de forma geral ao desenvolvimento, permitindo cumprir todo ou parcial, o papel informado nos incisos I, II, III, IV, V, VI, VII, VIII e IX deste artigo.
+- XII - Desenvolvedor de jogos: a pessoa física que é responsável por criar e desenvolver jogos de entretenimento. Atua de forma geral ao desenvolvimento, permitindo cumprir todo ou parcial, o papel informado nos incisos I, IX, X e XI deste artigo.
 
 ## Art. 7º O termo generalista Profissional Digital Geral poderá ser utilizado em todo o território nacional para referir-se a todas as seguintes especialidades:
 
@@ -121,7 +128,7 @@ O CONGRESSO NACIONAL decreta:
 
 - I - Fará de forma gratuita.
 - II - Do inicio do pedido ao fim do processo com a obtenção da classificação etária do jogo, discorrerá um prazo máximo de 60 dias. Caso não haja a entrega de classificação neste periodo, o publicador do Jogo poderá realizar uma auto classificação etária.
-- III - Caso o jogo for disponibilizado de forma digital, será opcional a obtenção de classificação etária pelo Estado, permintindo que o próprio publicador do jogo realize uma auto classificação etária. Neste caso, precisa estar avisado ao consumidor, previamente antes do uso ou compra do jogo, que se trata de uma auto classificação.
+- III - Caso o jogo for disponibilizado de forma digital, será opcional a obtenção de classificação etária pelo Estado, permitindo que o próprio publicador do jogo realize uma auto classificação etária. Neste caso, precisa estar avisado ao consumidor, previamente antes do uso ou compra do jogo, que se trata de uma auto classificação.
 - IV - A auto classificação etária, apenas poderá ser contestada, através de pedido com mínimo de 50.000 assinaturas de pessoas físicas, recolhidas em prazo máximo de 180 dias, podendo ser de forma digital ou física, apontando argumentos que demonstrem mal uso da boa fé dada na auto classificação etária realizado pelo publicador do jogo. O Estado analisará o pedido e poderá realizar ou não a reclassificação etária do jogo, em prazo máximo de 90 dias. Se constatado que a auto classificação forneceu uma indicação menor do que o ideal, o jogo deverá atualizar sua indicação para a nova classificação fornececida pelo Estado, com prazo de 60 dias para a troca. Caso vença o prazo de troca sem a troca da classificação, segue multa diária máxima de 5.000 Ufir, a ser definido pelo Estado, até o cumprimento da medida. Em caso de contestação judicial por parte do publicador, este processo poderá ser bloqueado por decisão judicial preliminar, até que a causa seja resolvida.
 
 § 2º O Estado dispensará qualquer autorização estatal para o desenvolvimento, exploração, venda e distribuição dos jogos de entretenimento abrangidos por esta lei.
@@ -134,19 +141,25 @@ O CONGRESSO NACIONAL decreta:
 
 § 6º O Estado, através de órgão competente, fará de forma gratuita, 1 (um) processo de concessão de marca, por pessoa juridica que exerçam atividades de desenvolvimento ou produção de jogos de entretenimento.
 
-§ 7º O desenvolvimento e uso de Inteligência Artificial para jogos eletrônicos, quando implementado para agir dentro do escopo do jogo, é considerado de nenhum risco a sociedade.
+§ 7º O desenvolvimento e uso de Inteligência Artificial para jogos eletrônicos, é considerado de nenhum risco a sociedade.
 
 § 8º Não se consideram jogo eletrônico ou jogo analógico, para os fins desta Lei, as máquinas caça-níqueis ou outros jogos de apostas com chance semelhantes.
 
-## Art. 11º Os jogos eletrônicos e jogos analógicos podem ser utilizados para entretenimento ou para qualquer outra atividade lícita, inclusive:
+## Art. 11º É considerado uso justo no direito autoral de jogos de entretenimento, a realização feita por terceiros:
+
+- I - Nas modificações de jogos de entretenimento, em midias digitais ou físicas, desde que todos os usuários que fizerem o uso, tenham concentido e concordado previamente;
+
+- II - Quando não houver formas de os usuários adquirirem uma cópia do jogo, na plataforma o qual havia disponível, permitindo assim, a cópia e compartilhamento desses jogos de entretenimento; e
+
+- III - A gravação, edição e compartilhamento de tela, para fins de entretenimento por criadores de conteudo ou influencers digitais.
+
+## Art. 12º Os jogos eletrônicos e jogos analógicos podem ser utilizados para entretenimento ou para qualquer outra atividade lícita, inclusive:
 
 - I – em ambiente escolar, para fins didáticos, em conformidade com a Base Nacional Comum Curricular (BNCC), e de recreação;
 - II – para fins terapêuticos; e
 - III – para fins de treinamento e de simulações: de condução de veículos, do trabalho de agentes de defesa ou policial, de reação a situações de emergência, bem como de manuseio de máquinas e de equipamentos.
 
 Parágrafo único. As autoridades administrativas regulamentarão, no âmbito de sua competência, o uso dos jogos eletrônicos e jogos analógicos para os fins previstos nos incisos I, II e III do caput deste artigo.
-
-## Art. 12º Os jogos eletrônicos, são agraciados por isenção de imposto de importação.
 
 ## Art. 13º Os jogos digitais, são categorizados como serviços. Já os jogos físicos, são categorizados como produtos.
 
@@ -158,7 +171,7 @@ Parágrafo único. Para fins do disposto no caput deste artigo, o investimento e
 
 Parágrafo único. Para fins do disposto no caput deste artigo, considera-se como atividade de baixo risco.
 
-## Art. 16º Inclui as seguintes profissões de Produtor de jogos independente, Roteirista de jogos independente, Artista Visual de jogos independente, Artista Sonoro de jogos independente, UI Designer de jogos independente, UX Designer de jogos independente, Marketing de jogos independente, Testador de jogos independente, Programador de jogos independente, Agente de Cibersegurança de jogos independente, Designer de jogos independente, Desenvolvedor de jogos independente, Artista Digital independente e Desenvolvedor independente a lista de ocupações permitidas ao MEI, de acordo a lei complementar nº 123, de 14 de dezembro de 2006.
+## Art. 16º Incluem-se as seguintes profissões: Produtor de jogos independente, Roteirista de jogos independente, Artista Visual de jogos independente, Artista Sonoro de jogos independente, UI Designer de jogos independente, UX Designer de jogos independente, Marketing de jogos independente, Testador de jogos independente, Programador de jogos independente, Agente de Cibersegurança de jogos independente, Designer de jogos independente, Desenvolvedor de jogos independente, Artista Digital independente e Desenvolvedor independente, na lista de ocupações permitidas ao MEI, de acordo com a Lei Complementar nº 123, de 14 de dezembro de 2006
 
 ## Art. 17º O desenvolvimento de jogos eletrônicos é considerado pesquisa tecnológica e desenvolvimento de inovação tecnológica para fins de aproveitamento dos incentivos de que trata o Capítulo III da Lei nº 11.196, de 21 de novembro de 2005.
 
@@ -176,21 +189,29 @@ Parágrafo único. Para fins do disposto no caput deste artigo, considera-se com
 
 ## Art. 19º Para o exercício da profissão de Profissional de Jogos e Profissional Digital Generalista, não será exigido diploma, quaisquer qualificações ou licença Estado. É garantido liberdade de escolha e decisão as partes envolvidas no serviço prestado.
 
-## Art. 20º Para a abertura, funcionamento, fechamento e o exercício de Empresa Produtora de Jogos e Empresa Disponibilizadora de Jogos, quaisquer necessidades de altorizações especiais ou licença Estado, além dos quais já é regulado para empresas em geral. É garantido liberdade de escolha e decisão as partes envolvidas no serviço prestado.
+## Art. 20º Para a abertura, funcionamento, fechamento e o exercício de Empresa Produtora de Jogos e Empresa Disponibilizadora de Jogos, quaisquer necessidades de autorizações especiais ou licença Estado, além dos quais já é regulado para empresas em geral. É garantido liberdade de escolha e decisão as partes envolvidas no serviço prestado.
 
 
 
-# Capítulo III - Da promoção cultural aos jogos eletrônicos e jogos analógicos
+# Capítulo III - Das isenções tributárias
 
-## Art. 21º Aplica-se às Empresas Produtoras de Jogos, exclusivamente de jogos eletrônicos e jogos analógicos, o dispostos no art. --- X --- da Lei nº 8.313, de 23 de dezembro de 1991. 
+## Art. 21º Os chamados DevKits, sendo versões dos dispositivos dedicados aos jogos eletrônicos voltados ao desenvolvimento, sendo parte imprescindível do trabalho do desenvolvedor, possuem aliquotas zeradas de imposto sobre o produto industrializado (IPI) e imposto de importação (II).
+
+## Art. 22º Os jogos eletrônicos, enquanto mídias físicas e digitais, possuem isenção de imposto de importação (II).
+
+
+
+# Capítulo IV - Da promoção cultural aos jogos eletrônicos e jogos analógicos
+
+## Art. 23º Aplica-se às Empresas Produtoras de Jogos, exclusivamente de jogos eletrônicos e jogos analógicos, o dispostos no art. --- X --- da Lei nº 8.313, de 23 de dezembro de 1991. 
 
 Parágrafo único. Para fins do disposto no caput deste artigo, o investimento em desenvolvimento de jogos eletrônicos ou jogos analógicos é considerado cultura.
 
-## Art. 22º A promoção da cultura nacional e do mercado de jogos eletronicos brasileiro, bem como a garantia da participação de profissionais brasileiros na execução de obras audiovisuais nacionais, nos termos do § 3º do art. 222 da Constituição da República Federativa do Brasil, é dever dos provedores de serviço digital de jogos eletronicos sob demanda e lojas digitais de jogos eletrônicos:
+## Art. 24º A promoção da cultura nacional e do mercado de jogos eletronicos brasileiro, bem como a garantia da participação de profissionais brasileiros na execução de obras audiovisuais nacionais, nos termos do § 3º do art. 222 da Constituição da República Federativa do Brasil, é dever dos provedores de serviço digital de jogos eletronicos sob demanda e lojas digitais de jogos eletrônicos:
 
 Parágrafo único. Prover disposição em catálogo, de modo permanente, de uma vitrine digital na aba principal, contendo todos os jogos eletronicos brasileiros presentes no catálogo;
 
-## Art. 23º O provedor do serviço digital de jogos eletronicos sob demanda e loja digital de jogos eletrônicos investirá anualmente percentual de sua receita bruta na produção ou aquisição de direitos de licenciamento de obras de jogos eletronicos brasileiras.
+## Art. 25º O provedor do serviço digital de jogos eletronicos sob demanda e loja digital de jogos eletrônicos investirá anualmente percentual de sua receita bruta na produção ou aquisição de direitos de licenciamento de obras de jogos eletronicos brasileiras.
 
 § 1º O percentual a ser investido será proporcional à receita bruta anual obtida pelo provedor no exercício anterior ao do investimento, obedecendo aos seguintes percentuais e em apuração progressiva:
 
