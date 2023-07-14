@@ -119,7 +119,9 @@ Gosta de nosso trabalho e nao sabe como colaborar, mas quer participar? Nao tem 
 - [X] Templates para propostas de melhorias;
 - [X] Templates para issues;
 - [ ] Templates para merge requests;
-- [ ] Listar companhias, grupos, empresas, deputados e senadores que apoiam a causa;
+- [ ] Listar companhias, grupos, empresas que apoiam a causa;
+- [ ] Listar deputados e senadores que apoiam a causa;
+- [ ] Listar influencers que apoiam a causa;
 - [ ] Listar todas iniciativas de abaixo assinado relacionado ao tema;
 - [ ] Descrição de como apoiar a causa;
 - [ ] Canal de transparência de gastos com open-collective ou outro;
